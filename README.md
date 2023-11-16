@@ -17,6 +17,6 @@ If it serves no purpose then it might as well not be added
 3. It has to actually work properly
 This one is pretty self explanatory as well, If it's basically useless then it might as well not be merged
 
-Credits: 
-Crazysnipercatt0 for the original repo. 
+Credits: <br>
+Crazysnipercatt0 for the original repo. <br>
 The old crew of Offline Games for their hard work on the different Dev Menus        

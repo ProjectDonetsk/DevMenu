@@ -1,0 +1,1 @@
+NOT the license, We're keeping that under MIT license to allow users to make any changes or configuration updates to the project freely with ease to make additions, changes, updates with 1.65 if it ever releases, etc.
